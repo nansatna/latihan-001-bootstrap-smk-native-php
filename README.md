@@ -1,6 +1,7 @@
 # latihan-001-bootstrap-smk-native-php
 latihan-001-bootstrap-smk-native-php adalah project latihan pembuatan website sekolah menggunakan Bootstrap 5 untuk tampilan (frontend) dan PHP Native untuk pengolahan data (backend sederhana).
-Tujuan dari repositori ini adalah:
+
+Tujuan dari project ini adalah:
 1. Membuat template website sekolah dengan tampilan responsif.
 2. Mengimplementasikan komponen Bootstrap (navbar, footer, card, carousel, grid, dsb).
 3. Menambahkan fitur dasar berbasis PHP Native, seperti halaman dinamis untuk berita, artikel, dan kontak.
