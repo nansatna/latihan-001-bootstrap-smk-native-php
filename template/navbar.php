@@ -77,7 +77,7 @@
 
           <!-- Kontak Kami -->
           <li class="nav-item">
-            <a class="nav-link <?= $active['kontak']?>" href="/kontak">Kontak Kami</a>
+            <a class="nav-link <?= $active['kontan']?>" href="/kontak">Kontak Kami</a>
           </li>
         </ul>
       </div>
