@@ -1,4 +1,4 @@
-# latihan-001-bootstrap-smk-native-php
+# profil-smk-pasundan-subang-v1-native-php
 profil-smk-pasundan-subang-v1-native-php adalah project pembuatan website sekolah menggunakan Bootstrap 5 untuk tampilan (frontend) dan PHP Native untuk pengolahan data (backend sederhana).
 
 Tujuan dari project ini adalah:
