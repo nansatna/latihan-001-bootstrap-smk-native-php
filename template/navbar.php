@@ -79,6 +79,11 @@
           <li class="nav-item">
             <a class="nav-link <?= $active['kontan']?>" href="/kontak">Kontak Kami</a>
           </li>
+
+          <!-- Login -->
+          <li class="nav-item">
+            <a class="nav-link <?= $active['login']?>" href="/login">Login</a>
+          </li>
         </ul>
       </div>
     </div>
