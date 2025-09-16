@@ -1,23 +1,11 @@
 <!-- Hero / Banner -->
 <section class="bg-primary text-white text-center py-5">
   <div class="container">
-    <h1 class="fw-bold">Selamat Datang di SMK Pasundan Subang</h1>
-    <p class="lead">Sekolah unggulan yang berkomitmen mencetak generasi berprestasi, berkarakter, dan siap kerja.</p>
-    <a href="#profil" class="btn btn-light btn-lg mt-3">Jelajahi</a>
-  </div>
-</section>
-
-<!-- Tentang Sekolah -->
-<section id="profil" class="py-5">
-  <div class="container text-center">
-      <div id="carouselExample" class="carousel slide">
-        <div class="carousel-inner">
+    <div class="carousel-inner">
           <div class="carousel-item active">
-            <h2 class="fw-bold mb-4">Tentang SMK Pasundan Subang</h2>
-            <p class="text-muted">
-              SMK Pasundan Subang berdiri dengan visi membangun sumber daya manusia unggul 
-              yang mampu bersaing di dunia kerja maupun perguruan tinggi2.
-            </p>
+             <h1 class="fw-bold">Selamat Datang di SMK Pasundan Subang</h1>
+              <p class="lead">Sekolah unggulan yang berkomitmen mencetak generasi berprestasi, berkarakter, dan siap kerja.</p>
+              <a href="#profil" class="btn btn-light btn-lg mt-3">Jelajahi</a>
             <img src="..." class="d-block w-100" alt="...">
           </div>
           <div class="carousel-item">
@@ -36,6 +24,20 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+   
+  </div>
+</section>
+
+<!-- Tentang Sekolah -->
+<section id="profil" class="py-5">
+  <div class="container text-center">
+      <div id="carouselExample" class="carousel slide">
+        <h2 class="fw-bold mb-4">Tentang SMK Pasundan Subang</h2>
+            <p class="text-muted">
+              SMK Pasundan Subang berdiri dengan visi membangun sumber daya manusia unggul 
+              yang mampu bersaing di dunia kerja maupun perguruan tinggi2.
+            </p>
+      
   </div>
 </section>
 
