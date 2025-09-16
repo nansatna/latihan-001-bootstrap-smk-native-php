@@ -16,7 +16,7 @@
             <h2 class="fw-bold mb-4">Tentang SMK Pasundan Subang</h2>
             <p class="text-muted">
               SMK Pasundan Subang berdiri dengan visi membangun sumber daya manusia unggul 
-              yang mampu bersaing di dunia kerja maupun perguruan tinggi.
+              yang mampu bersaing di dunia kerja maupun perguruan tinggi2.
             </p>
             <img src="..." class="d-block w-100" alt="...">
           </div>
