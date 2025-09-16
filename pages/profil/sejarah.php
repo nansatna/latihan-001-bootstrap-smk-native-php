@@ -10,7 +10,7 @@
 
       <!-- Teks Sejarah -->
       <div class="col-md-7">
-        <h2 class="fw-bold mb-3">Sejarah SMK Pasundan Subang</h2>
+        <h1 class="fw-bold mb-3">Sejarah SMK Pasundan Subang</h1>
         <p class="text-muted">
           SMK Pasundan Subang didirikan sebagai bagian dari upaya Yayasan Pasundan untuk 
           meningkatkan kualitas pendidikan kejuruan di Kabupaten Subang. Sejak berdiri, sekolah ini 
